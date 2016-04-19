@@ -2,7 +2,7 @@
 
 I don't recommend using my CSS as a way to learn. It's very disorganized, out of order, and very little comments.
 
-![Preview](ytkdrf_2016-04-19_01-59-20.png) 
+![Preview](example.png) 
 
 Requirements:
 

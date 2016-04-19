@@ -273,6 +273,7 @@ textarea {
 }
 
 .channel-members h2 {
+    color: #8d2036 !important;
 	background: rgba(0,0,0,0.5);
     padding-top: 8px;
     padding-bottom: 8px;
@@ -308,10 +309,6 @@ textarea {
 
 .form .btn-primary:hover {
 	background-color:#19191b;
-}
-
-.user-settings-modal a {
-	color:#8d2036;
 }
 
 .user-settings-modal a:hover {
@@ -374,9 +371,16 @@ textarea {
 	background: #39393b !important;
 }
 
-.message-group h2 {
-    background: rgba(0,0,0,0.5);
-    padding-top: 2px;
-    padding-bottom: 2px;
-    padding-left: 1px;
+.theme-dark .chat .title-wrap .channel-name {
+ font-size: 13px;
+}
+.theme-dark .chat .title-wrap .topic {
+ padding-bottom: 6px;   
+}
+.theme-dark .friends-table .messages .message-group h2 span, .theme-dark .messages-wrapper .messages .message-group h2 span {
+font-size: 10px;
+}
+
+.theme-dark .friends-table .messages .message-group h2 strong, .theme-dark .messages-wrapper .messages .message-group h2 strong {
+ font-size: 15px;   
 }
