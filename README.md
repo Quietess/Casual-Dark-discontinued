@@ -5,6 +5,7 @@ I pretty much just looked at DarkMatter's CSS, copy and pasted things until I fi
 [Preview](http://i.imgur.com/lJyhhCw.png)
 
 Requirements:
+
 [BetterDiscord](https://betterdiscord.net/)
 
 [BetterDiscord+](https://github.com/Bluscream/BetterDiscord-Plugins-and-Themes)
