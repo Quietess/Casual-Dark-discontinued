@@ -1,0 +1,2 @@
+# Casual-Dark
+BetterDiscord theme
