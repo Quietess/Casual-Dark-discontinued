@@ -47,7 +47,7 @@ textarea {
 }
 
 .scroller-wrap .scroller::-webkit-scrollbar-thumb {
-	border:3px solid rgba(255,255,255,0) !important;
+	border:3px solid rgba(57, 57, 59, 1) !important;
 	background-color:#19191b !important;
 }
 
