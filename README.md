@@ -2,7 +2,7 @@
 
 I pretty much just looked at DarkMatter's CSS, copy and pasted things until I figured out what was what, and changed the values accordingly, so absolutely nothing is in order and it's complete chaos, but hey, I like the skin.
 
-[Preview](http://i.imgur.com/lJyhhCw.png)
+[[ytkdrf_2016-04-19_01-59-20.png]]
 
 Requirements:
 
