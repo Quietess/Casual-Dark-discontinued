@@ -8,6 +8,8 @@ Requirements:
 
 [BetterDiscord](https://betterdiscord.net/)
 
+and
+
 [BetterDiscord+](https://github.com/Bluscream/BetterDiscord-Plugins-and-Themes)
 
 1. Add to C:\Users\NAME\AppData\Roaming\BetterDiscord\themes
