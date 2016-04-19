@@ -384,3 +384,11 @@ font-size: 10px;
 .theme-dark .friends-table .messages .message-group h2 strong, .theme-dark .messages-wrapper .messages .message-group h2 strong {
  font-size: 15px;   
 }
+
+div.avatar-large {
+    border-radius: 5px;
+}
+
+div.avatar-small {
+    border-radius: 5px;
+}
