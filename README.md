@@ -1,6 +1,6 @@
 # Casual-Dark: BetterDiscord theme
 
-I pretty much just looked at DarkMatter's CSS, copy and pasted things until I figured out what was what, and changed the values accordingly, so absolutely nothing is in order and it's complete chaos, but hey, I like the skin.
+I don't recommend using my CSS as a way to learn. It's very disorganized, out of order, and very little comments.
 
 ![Preview](ytkdrf_2016-04-19_01-59-20.png) 
 
