@@ -1,6 +1,6 @@
 # Casual-Dark: BetterDiscord theme
 
-I don't recommend using my CSS as a way to learn. It's very disorganized, out of order, and very little comments.
+I don't recommend using my CSS as a way to learn. It's very disorganized, out of order, and very little comments. I'll work on it in the future.
 
 ![Preview](example.png) 
 
