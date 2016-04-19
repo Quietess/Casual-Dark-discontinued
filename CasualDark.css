@@ -1,5 +1,8 @@
-//META{"name":"Casual Dark","description":"A simple, dark, casual theme.","author":"Quietess","version":"1.0"}*//
+//META{"name":"Casual Dark","description":"A nice sleek and dark Discord skin","author":"Quietess","version":"1.0"}*//
 
+.help-container {
+	display: none;
+}
 
 .links,
 .chat,
@@ -114,7 +117,7 @@ textarea {
 }
 
 .guilds li .guild-inner:before {
-	left:80px;
+	display:none;
 }
 
 .guilds li.unread .guild-inner:before,
@@ -148,7 +151,10 @@ textarea {
 .guild-channels header h2,
 .private-channels header {
 	opacity:.6;
-    color: #8d2036
+    background: rgba(0,0,0,0.5);
+    color: #8d2036;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
 
 .guild-channels ul .channel.selected,
@@ -366,4 +372,11 @@ textarea {
 
 .friends-table .friends-row:hover {
 	background: #39393b !important;
+}
+
+.message-group h2 {
+    background: rgba(0,0,0,0.5);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 1px;
 }
