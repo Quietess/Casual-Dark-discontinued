@@ -8,9 +8,9 @@ Requirements:
 
 [BetterDiscord](https://betterdiscord.net/)
 
-1. Add to C:\Users\NAME\AppData\Roaming\BetterDiscord\themes
+1. Add only "Casual_Dark.theme.css" to C:\Users\NAME\AppData\Roaming\BetterDiscord\themes
 2. Press CTRL+R to reload BetterDiscord
-3. Enable in BetterDiscord > Themes in settings.
+3. Enable "Casual_Dark.theme.css" in BetterDiscord > Themes in settings.
 
 If you want the icon that shows up next to the server icons when there's new messages on that server:
 
