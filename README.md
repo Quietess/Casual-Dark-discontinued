@@ -1,3 +1,5 @@
+# This theme is no longer being updated, I'm leaving it up in case someone else wants to download the code and work on it yourself. Feel free to release it under your own name once you've fixed it, just throw me a shout out or something, thanks.
+
 # Casual-Dark: BetterDiscord theme
 
 I don't recommend using my CSS as a way to learn. It's very disorganized, out of order, and very little comments. I'll work on it in the future.
